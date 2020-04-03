@@ -1,0 +1,10 @@
+{
+    "config": {
+        "hashtags": [
+            "art"
+        ]
+    },
+    "encryption": {
+        "path": "/Users/x/.secrets"
+    }
+}
