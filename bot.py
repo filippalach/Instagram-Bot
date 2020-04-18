@@ -127,7 +127,7 @@ class Instagram():
             log.info(f'Liked {liked_posts_counter} posts so far.')
             self._wait_for_browser(30)   
 
-# TODO: Allow for more than 1 hashtag and intruduce multitreading for that.
+# TODO: Allow for more than 1 hashtag and introduce multithreading for that.
 if __name__ == '__main__':
     credential = credentials.read_credentials()
     if len(HASHTAGS) is not 1:
