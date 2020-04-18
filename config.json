@@ -5,6 +5,6 @@
         ]
     },
     "encryption": {
-        "path": "/Users/x/.secrets"
+        "path": "/Users/<user>/.secrets"
     }
 }
